@@ -1,7 +1,5 @@
 tensorflow
 numpy
-glob2
-matplotlib
 Pillow
 streamlit
-PIL
+
