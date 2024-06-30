@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 # Correct model path
-MODEL_PATH = '/home/muhammad-rizwan/Desktop/New Folder/work/Code/Internship/Day_3/Cotton-Disease-Prediction-Deep-Learning-master/model_resnet152V2.h5'
+MODEL_PATH = 'model_resnet152V2.h5'
 model = tf.keras.models.load_model(MODEL_PATH)
 
 # Function to preprocess the image
