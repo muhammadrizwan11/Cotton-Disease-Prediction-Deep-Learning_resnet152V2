@@ -1,0 +1,1 @@
+# Cotton-Disease-Prediction-Deep-Learning_resnet152V2
